@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "374176483877",
+    "firebase_url": "https://toodo-a2565.firebaseio.com",
+    "project_id": "toodo-a2565",
+    "storage_bucket": "toodo-a2565.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:374176483877:android:677737e26bf1e6c8",
+        "android_client_info": {
+          "package_name": "com.example.a46406163y.toodo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "374176483877-c8l23a5827ahb6h9bk1m0nfgav65iuhu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.a46406163y.toodo",
+            "certificate_hash": "408E52FB6706EE5E951FADE4AE2228840E146810"
+          }
+        },
+        {
+          "client_id": "374176483877-9ej0jqbah4effje30gjprrn45cc43em3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy0cLoVEtrD42j1PbnDG-gnz-_AIZH-Wc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "374176483877-9ej0jqbah4effje30gjprrn45cc43em3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
